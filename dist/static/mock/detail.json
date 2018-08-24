@@ -1,0 +1,281 @@
+{
+  "ret": true,
+  "data": {
+    "0001":{
+      "sightName": "欢乐口腔(亚运村分院)",
+      "gallaryImgs": ["https://p1.meituan.net/dpdeal/6949513653be7505f73f69d1d5e801e61366913.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20","https://p0.meituan.net/dpdeal/ba8c1083020da76f17ff96ccce3bab9e209632.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"],
+      "detail":{
+        "remark":"1234",
+        "place":"安立路安慧里三区六号楼2层(中国银行楼上，北京剧院旁)",
+        "tel":"4000850234",
+        "server":"5.0",
+        "environ":"5.0",
+        "result":"5.0",
+        "time":"周一至周日／8:00-20:00"
+      },
+      "doctorList": [{
+        "id": "0001",
+        "imgUrl": "http://hera.s.igengmei.com/doctor/2018/02/28/9d6263e82a-web",
+        "title": "张春彦(主任医师)",
+        "star":"3",
+        "remark":"233",
+        "price":"654",
+        "place":"亚运村",
+        "tag":["18名认证医师","烤瓷牙","种植牙","拔牙"]
+      },{
+        "id": "0002",
+        "imgUrl": "http://hera.s.igengmei.com/doctor/2017/12/02/37918e57c1-web",
+        "title": "王珍祥(副主任医师)",
+        "star":"5",
+        "remark":"711",
+        "price":"265",
+        "place":"劲松/潘家园",
+        "tag":["医疗执业许可","9名认证医师","16个官方案例","烤瓷牙"]
+      }, {
+        "id": "0003",
+        "imgUrl": "http://hera.s.igengmei.com/2016/11/15/af5ec47f38-web",
+        "title": "胡金香",
+        "star":"5",
+        "remark":"493",
+        "price":"1218",
+        "place":"蓝色港湾",
+        "tag":["医疗执业许可","9名认证医师","5个官方案例","烤瓷牙"]
+      }, {
+        "id": "0004",
+        "imgUrl": "http://hera.s.igengmei.com/doctor/2017/09/18/ce86d35cfe-web",
+        "title": "刘江(主治医师)",
+        "star":"5",
+        "remark":"93",
+        "price":"972",
+        "place":"西红门",
+        "tag":["医疗执业许可","9名认证医师","5个官方案例","烤瓷牙"]
+      }, {
+        "id": "0005",
+        "imgUrl": "http://hera.s.igengmei.com/2016/08/05/e83bb6e099-web",
+        "title": "罗海军",
+        "star":"5",
+        "remark":"93",
+        "price":"972",
+        "place":"青年路",
+        "tag":["补牙","烤瓷牙","种植牙","拔牙","牙齿矫正"]
+      }, {
+        "id": "0006",
+        "imgUrl": "http://hera.s.igengmei.com/doctor/2018/05/01/6dc9275413-web",
+        "title": "王高峰(主治医师)",
+        "star":"5",
+        "remark":"167",
+        "price":"534",
+        "place":"酒仙桥",
+        "tag":["医疗执业许可","9名认证医师","5个官方案例","烤瓷牙"]
+      },  {
+        "id": "0007",
+        "imgUrl": "http://hera.s.igengmei.com/doctor/2017/09/28/1007/92e08e67fa9d-web",
+        "title": "杨瑞国(主任医师)",
+        "star":"5",
+        "remark":"93",
+        "price":"972",
+        "place":"崇文门",
+        "tag":["医疗执业许可","9名认证医师","5个官方案例","烤瓷牙"]
+      },  {
+        "id": "0008",
+        "imgUrl": "http://hera.s.igengmei.com/doctor/2018/04/30/1102/839c1507ae41-web",
+        "title": "宋国强",
+        "star":"5",
+        "remark":"93",
+        "price":"972",
+        "place":"青年路",
+        "tag":["补牙","烤瓷牙","种植牙","拔牙","牙齿矫正"]
+      },  {
+        "id": "0009",
+        "imgUrl": "http://hera.s.igengmei.com/doctor/2017/11/25/797978da6e-web",
+        "title": "郝铁英",
+        "star":"5",
+        "remark":"913",
+        "price":"300",
+        "place":"三里屯",
+        "tag":[]
+      },  {
+        "id": "0010",
+        "imgUrl": "http://hera.s.igengmei.com/doctor/2017/04/11/8759539409-web",
+        "title": "张海明",
+        "star":"5",
+        "remark":"166",
+        "price":"216",
+        "place":"望京",
+        "tag":["补牙","烤瓷牙","种植牙","拔牙","牙齿矫正"]
+      }],
+      "orderList":[{
+        "id": "001",
+        "urlImg": "http://p1.meituan.net/dpdeal/f3bd9bb9d46cb1bf9ac1f787a410031f621082.png%40220w_164h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D20%26y%3D20",
+        "title": "单人洗牙套系,节假日通用",
+        "price":"888",
+        "orderprice":"999",
+        "soldNum":"1546",
+        "category":"洗牙"
+      },{
+        "id": "002",
+        "urlImg": "http://p1.meituan.net/dpdeal/e141a4da4fe2f0b90a5a8d9f7f0c7213258922.jpg%40220w_164h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D20%26y%3D20",
+        "title": "牙齿晶莹美白套餐,节假日通用",
+        "price":"888",
+        "orderprice":"999",
+        "soldNum":"1546",
+        "category":"洁牙"
+      },{
+        "id": "003",
+        "urlImg": "http://p1.meituan.net/dpdeal/55d89b36d3fcbd172da8b66634b43edb874988.jpg%40220w_164h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D20%26y%3D20",
+        "title": "3M儿童专业涂氟呵护,节假日通用",
+        "price":"199",
+        "orderprice":"820",
+        "soldNum":"15",
+        "category":"涂氟"
+      },{
+        "id": "004",
+        "urlImg": "http://p1.meituan.net/dpdeal/5f7e74504a395f2e15a92326af4597d2214532.jpg%40220w_164h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D20%26y%3D20",
+        "title": "成人补牙套餐,节假日通用",
+        "price":"350",
+        "orderprice":"920",
+        "soldNum":"2513",
+        "category":"补牙"
+      },{
+        "id": "005",
+        "urlImg": "http://p0.meituan.net/dpdeal/19959d7fc32790e94c562505f7aee8f41014960.jpg%40220w_164h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D20%26y%3D20",
+        "title": "种植牙术后1年专业护理服务",
+        "price":"199",
+        "orderprice":"4020",
+        "soldNum":"2",
+        "category":"种植牙"
+      },{
+        "id": "006",
+        "urlImg": "http://p1.meituan.net/dpdeal/e141a4da4fe2f0b90a5a8d9f7f0c7213258922.jpg%40220w_164h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D20%26y%3D20",
+        "title": "牙齿晶莹美白套餐,节假日通用",
+        "price":"1600",
+        "orderprice":"3180",
+        "soldNum":"198",
+        "category":"洁牙"
+      },{
+        "id": "007",
+        "urlImg": "http://p0.meituan.net/dpdeal/19959d7fc32790e94c562505f7aee8f41014960.jpg%40220w_164h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D20%26y%3D20",
+        "title": "种植牙术后1年专业护理服务",
+        "price":"199",
+        "orderprice":"4020",
+        "soldNum":"2",
+        "category":"种植牙"
+      },{
+        "id": "008",
+        "urlImg": "http://p0.meituan.net/dpdeal/19959d7fc32790e94c562505f7aee8f41014960.jpg%40220w_164h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D20%26y%3D20",
+        "title": "种植牙术后1年专业护理服务",
+        "price":"199",
+        "orderprice":"4020",
+        "soldNum":"2",
+        "category":"种植牙"
+      }]
+    },
+    "0002":{
+      "sightName": "圣贝口腔(南磨房路店)",
+      "gallaryImgs": ["https://p1.meituan.net/dpdeal/6949513653be7505f73f69d1d5e801e61366913.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20","https://p0.meituan.net/dpdeal/ba8c1083020da76f17ff96ccce3bab9e209632.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"],
+      "detail":{
+        "remark":"1234",
+        "place":"安立路安慧里三区六号楼2层(中国银行楼上，北京剧院旁)",
+        "tel":"4000850234",
+        "server":"5.0",
+        "environ":"5.0",
+        "result":"5.0",
+        "time":"周一至周日／8:00-20:00"
+      },
+      "doctorList": [{
+        "id": "0001",
+        "imgUrl": "http://hera.s.igengmei.com/doctor/2018/02/28/9d6263e82a-web",
+        "title": "张春彦(主任医师)",
+        "star":"3",
+        "remark":"233",
+        "price":"654",
+        "place":"亚运村",
+        "tag":["18名认证医师","烤瓷牙","种植牙","拔牙"]
+      },{
+        "id": "0002",
+        "imgUrl": "http://hera.s.igengmei.com/doctor/2017/12/02/37918e57c1-web",
+        "title": "王珍祥(副主任医师)",
+        "star":"5",
+        "remark":"711",
+        "price":"265",
+        "place":"劲松/潘家园",
+        "tag":["医疗执业许可","9名认证医师","16个官方案例","烤瓷牙"]
+      }, {
+        "id": "0003",
+        "imgUrl": "http://hera.s.igengmei.com/2016/11/15/af5ec47f38-web",
+        "title": "胡金香",
+        "star":"5",
+        "remark":"493",
+        "price":"1218",
+        "place":"蓝色港湾",
+        "tag":["医疗执业许可","9名认证医师","5个官方案例","烤瓷牙"]
+      }
+      ],
+      "orderList":[{
+        "id": "001",
+        "urlImg": "http://p1.meituan.net/dpdeal/f3bd9bb9d46cb1bf9ac1f787a410031f621082.png%40220w_164h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D20%26y%3D20",
+        "title": "单人洗牙套系,节假日通用",
+        "price":"888",
+        "orderprice":"999",
+        "soldNum":"1546",
+        "category":"洗牙"
+      },{
+        "id": "002",
+        "urlImg": "http://p1.meituan.net/dpdeal/e141a4da4fe2f0b90a5a8d9f7f0c7213258922.jpg%40220w_164h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D20%26y%3D20",
+        "title": "牙齿晶莹美白套餐,节假日通用",
+        "price":"888",
+        "orderprice":"999",
+        "soldNum":"1546",
+        "category":"洁牙"
+      },{
+        "id": "003",
+        "urlImg": "http://p1.meituan.net/dpdeal/55d89b36d3fcbd172da8b66634b43edb874988.jpg%40220w_164h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D20%26y%3D20",
+        "title": "3M儿童专业涂氟呵护,节假日通用",
+        "price":"199",
+        "orderprice":"820",
+        "soldNum":"15",
+        "category":"涂氟"
+      },{
+        "id": "004",
+        "urlImg": "http://p1.meituan.net/dpdeal/5f7e74504a395f2e15a92326af4597d2214532.jpg%40220w_164h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D20%26y%3D20",
+        "title": "成人补牙套餐,节假日通用",
+        "price":"350",
+        "orderprice":"920",
+        "soldNum":"2513",
+        "category":"补牙"
+      },{
+        "id": "005",
+        "urlImg": "http://p0.meituan.net/dpdeal/19959d7fc32790e94c562505f7aee8f41014960.jpg%40220w_164h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D20%26y%3D20",
+        "title": "种植牙术后1年专业护理服务",
+        "price":"199",
+        "orderprice":"4020",
+        "soldNum":"2",
+        "category":"种植牙"
+      },{
+        "id": "006",
+        "urlImg": "http://p1.meituan.net/dpdeal/e141a4da4fe2f0b90a5a8d9f7f0c7213258922.jpg%40220w_164h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D20%26y%3D20",
+        "title": "牙齿晶莹美白套餐,节假日通用",
+        "price":"1600",
+        "orderprice":"3180",
+        "soldNum":"198",
+        "category":"洁牙"
+      },{
+        "id": "007",
+        "urlImg": "http://p0.meituan.net/dpdeal/19959d7fc32790e94c562505f7aee8f41014960.jpg%40220w_164h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D20%26y%3D20",
+        "title": "种植牙术后1年专业护理服务",
+        "price":"199",
+        "orderprice":"4020",
+        "soldNum":"2",
+        "category":"种植牙"
+      },{
+        "id": "008",
+        "urlImg": "http://p0.meituan.net/dpdeal/19959d7fc32790e94c562505f7aee8f41014960.jpg%40220w_164h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D20%26y%3D20",
+        "title": "种植牙术后1年专业护理服务",
+        "price":"199",
+        "orderprice":"4020",
+        "soldNum":"2",
+        "category":"种植牙"
+      }]
+    }
+  }
+}

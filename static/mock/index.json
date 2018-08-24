@@ -1,0 +1,182 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [{
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1801/1a/94428c6dea109402.jpg_640x200_2cf590d8.jpg"
+      },{
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1802/42/7c92b9a381e46402.jpg_640x200_1cdce2a4.jpg"
+      },{
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1802/51/e78f936a5b404102.jpg_640x200_c14f0b3a.jpg"
+      },{
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1712/91/a275569091681d02.jpg_640x200_0519ccb9.jpg"
+      }],
+    "iconList": [{
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/54/ace00878a52d9702.png",
+        "desc": "景点门票"
+      }, {
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1711/df/86cbcfc533330d02.png",
+        "desc": "滑雪季"
+      }, {
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1710/a6/83f636bd75ae6302.png",
+        "desc": "泡温泉"
+      }, {
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/35/2640cab202c41b02.png",
+        "desc": "动植园"
+      }, {
+        "id": "0005",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/d0/e09575e66f4aa402.png",
+        "desc": "游乐园"
+      }, {
+        "id": "0006",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/59/569d3c096e542502.png",
+        "desc": "必游榜单"
+      }, {
+        "id": "0007",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/17/4bd370f3eb1acd02.png",
+        "desc": "演出"
+      }, {
+        "id": "0008",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/7f/b1ea3c8c7fb6db02.png",
+        "desc": "城市观光"
+      }, {
+        "id": "0009",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/a9/ffc620dbda9b9c02.png",
+        "desc": "一日游"
+      }],
+    "recommendList": [{
+        "id": "0001",
+        "imgUrl": "https://p1.meituan.net/merchantpic/e837b91dad573db9da38bce64e84274c470688.jpg.webp@120w_120h_1e_1c_1l|watermark=1&&r=1&p=9&x=2&y=2&relative=1&o=20",
+        "title": "欢乐口腔(亚运村分院)",
+        "desc": "东方宫殿建筑代表，世界宫殿建筑典范",
+        "star":"3",
+        "remark":"233",
+        "price":"654",
+        "place":"亚运村",
+        "tag":["18名认证医师","烤瓷牙","种植牙","拔牙"]
+      }, {
+        "id": "0002",
+        "imgUrl": "https://qcloud.dpfile.com/pc/-c5bdMeHvZURHwN5mwxAECtXt7K_kuFyuVuny0kuon4To3poAL0bffK1fGJV5KvX_Es9AvUr0sesLal2G0zjJA.jpg",
+        "title": "圣贝口腔(南磨房路店)",
+        "desc": "北京专业级滑雪圣地",
+        "star":"5",
+        "remark":"711",
+        "price":"265",
+        "place":"劲松/潘家园",
+        "tag":["医疗执业许可","9名认证医师","16个官方案例","烤瓷牙"]
+      }, {
+        "id": "0003",
+        "imgUrl": "https://vfile.meituan.net/joymerchant/-5523942636146248183-22951414-1524883921355.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+        "title": "科瓦齿科(蓝色港湾门诊)",
+        "desc": "我爱北京天安门，天安门上太阳升",
+        "star":"5",
+        "remark":"493",
+        "price":"1218",
+        "place":"蓝色港湾",
+        "tag":["医疗执业许可","9名认证医师","5个官方案例","烤瓷牙"]
+      }, {
+        "id": "0004",
+        "imgUrl": "https://qcloud.dpfile.com/pc/-c5bdMeHvZURHwN5mwxAECtXt7K_kuFyuVuny0kuon4To3poAL0bffK1fGJV5KvX_Es9AvUr0sesLal2G0zjJA.jpg",
+        "title": "瑞尔齿科(荟聚购物中心诊所)",
+        "desc": "中国的荣耀，阳光下的晶莹水滴",
+        "star":"5",
+        "remark":"93",
+        "price":"972",
+        "place":"西红门",
+        "tag":["医疗执业许可","9名认证医师","5个官方案例","烤瓷牙"]
+      }, {
+        "id": "0005",
+        "imgUrl": "https://p0.meituan.net/joymerchant/-6912618272343491971-210785-1504833120742.jpg.webp@120w_120h_1e_1c_1l|watermark=1&&r=1&p=9&x=2&y=2&relative=1&o=20",
+        "title": "佳美口腔",
+        "desc": "各种亚热带植物掩映其间仿佛置身热带雨林",
+        "star":"5",
+        "remark":"93",
+        "price":"972",
+        "place":"青年路",
+        "tag":["补牙","烤瓷牙","种植牙","拔牙","牙齿矫正"]
+      }, {
+        "id": "0006",
+        "imgUrl": "https://p1.meituan.net/joymerchant/2635239462876856174-23617470-1497604032103.jpg.webp@120w_120h_1e_1c_1l|watermark=1&&r=1&p=9&x=2&y=2&relative=1&o=20",
+        "title": "德倍尔口腔(荟聚购物中心诊所)",
+        "desc": "中国的荣耀，阳光下的晶莹水滴",
+        "star":"5",
+        "remark":"167",
+        "price":"534",
+        "place":"酒仙桥",
+        "tag":["医疗执业许可","9名认证医师","5个官方案例","烤瓷牙"]
+      },  {
+        "id": "0007",
+        "imgUrl": "https://p1.meituan.net/merchantpic/d91a2a4c7ccd84af19386d99297ed67c257906.jpg.webp@120w_120h_1e_1c_1l|watermark=1&&r=1&p=9&x=2&y=2&relative=1&o=20",
+        "title": "拜博口腔",
+        "desc": "各种亚热带植物掩映其间仿佛置身热带雨林",
+        "star":"5",
+        "remark":"93",
+        "price":"972",
+        "place":"崇文门",
+        "tag":["医疗执业许可","9名认证医师","5个官方案例","烤瓷牙"]
+      },  {
+        "id": "0008",
+        "imgUrl": "https://p0.meituan.net/joymerchant/-6912618272343491971-210785-1504833120742.jpg.webp@120w_120h_1e_1c_1l|watermark=1&&r=1&p=9&x=2&y=2&relative=1&o=20",
+        "title": "佳美口腔",
+        "desc": "各种亚热带植物掩映其间仿佛置身热带雨林",
+        "star":"5",
+        "remark":"93",
+        "price":"972",
+        "place":"青年路",
+        "tag":["补牙","烤瓷牙","种植牙","拔牙","牙齿矫正"]
+      },  {
+        "id": "0009",
+        "imgUrl": "https://vfile.meituan.net/joymerchant/-6900069877775804111-788351-1512703504459.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+        "title": "优尼牙科",
+        "desc": "各种亚热带植物掩映其间仿佛置身热带雨林",
+        "star":"5",
+        "remark":"913",
+        "price":"300",
+        "place":"三里屯",
+        "tag":[]
+      },  {
+        "id": "0010",
+        "imgUrl": "https://p1.meituan.net/joymerchant/-5464510184593742827-1101509-1499849477656.jpg.webp@120w_120h_1e_1c_1l|watermark=1&&r=1&p=9&x=2&y=2&relative=1&o=20",
+        "title": "都一口腔",
+        "desc": "各种亚热带植物掩映其间仿佛置身热带雨林",
+        "star":"5",
+        "remark":"166",
+        "price":"216",
+        "place":"望京",
+        "tag":["补牙","烤瓷牙","种植牙","拔牙","牙齿矫正"]
+      }],
+    "weekendList": [{
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1510/6e/1ea71e2f04e.jpg_r_640x214_aa6f091d.jpg",
+        "title": "北京温泉排行榜",
+        "desc": "细数北京温泉，温暖你的冬天"
+      }, {
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/aa/7baaf8a851d221.jpg_r_640x214_1431200f.jpg",
+        "title": "北京必游TOP10",
+        "desc": "来北京必去的景点非这些地方莫属"
+      }, {
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/9e/21df651e19af5d.jpg_r_640x214_3ea5bb38.jpg",
+        "title": "寻找北京的皇城范儿",
+        "desc": "数百年的宫廷庙宇，至今依旧威严霸气"
+      }, {
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/ce/bc89bc2f0e33ea.jpg_r_640x214_3e408453.jpg",
+        "title": "学生最爱的博物馆",
+        "desc": "周末干嘛？北京很多博物馆已经免费开放啦"
+      }, {
+        "id": "0005",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/b2/fde1bfcd057a52.jpg_r_640x214_bbf3fa44.jpg",
+        "title": "儿童剧场，孩子的乐园",
+        "desc": "带宝贝观看演出，近距离体验艺术的无穷魅力"
+      }]
+  }
+}
